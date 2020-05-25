@@ -1,0 +1,133 @@
+*{
+    text-decoration: none;
+    
+}
+a{
+    color: black;
+}
+a:hover{
+    color: gray;
+    text-decoration: none;
+}
+.wrapper{
+    max-width: 1170px;
+    padding: 0;
+}
+footer{
+    max-width: 1170px;
+    padding: 0;
+    background-color: #0f0f0f;
+    color: white;
+}
+footer a{
+    color:white;
+}
+.header_span{
+    text-align: left;
+}
+img{
+	max-width: 100%;
+	height: auto;
+	display: inline-block;
+}
+.content{
+    font-size: 12px;
+}
+.sidebar_tittle{
+    text-align: center;
+    font-size: 16px;
+}
+.sidebar_item{
+    border-left: 1px dashed #d3b390;
+}
+hr{
+    background-color:#d3b390;
+}
+.magazin_tittle{
+    font-size: 16px;
+    display: block;
+    text-align: center;
+}
+.magazin_link{
+    font-size: 14px;
+}
+.eye_item{
+    display: block;
+}
+.eye_tittle{
+    font-size: 12px;
+    display: block;
+    color: #96693d;
+}
+.eye_text{
+    font-size: 14px;
+    
+}
+.rightSidebar_items a{
+    padding: 0 5px 0 0;
+    font-size: 14px;
+}
+.subscribe{
+    border: 1px solid #96693d;
+    text-align: center;
+    font-size: 14px;
+    margin: 0 2em;
+    padding: 2em 0;
+}
+.subscribe span{
+    margin: 1em;
+    display: block;
+}
+.subscribe button{
+    border: 1px solid #96693d;
+    color: white;
+    background-color: #96693d;
+    
+}
+.card{
+    min-height: 100%;
+}
+.carousel-caption {
+    text-align: left;
+    padding: 2px;
+    border: 1px solid rgba(100,100,100,0.5);
+    background-color: rgba(100,100,100,0.5);
+}
+.carousel-caption h3{
+    font-size: 16px;
+}
+.magazins_tittle{
+    font-size: 16px;
+    color: #96693d;
+    font-weight: bold;
+    
+}
+.magazin_scroll{
+    overflow-y: scroll;
+    height: 340px;
+    position: relative;
+}
+.magazin_scroll a{
+    margin: 0.5em;
+    display: inline-block;
+}
+.block_tittle{
+    font-size: 16px;
+    font-weight: bold;
+    display: block;
+}
+.market_cardTittle{
+    font-size: 12px;
+}
+.market_cardText{
+    font-size: 10px;
+}
+.footer_tittle , .gray_text{
+    color:gray;
+}
+footer a, footer span{
+    font-size: 14px;
+}
+.company{
+    font-size: 16px;
+}
